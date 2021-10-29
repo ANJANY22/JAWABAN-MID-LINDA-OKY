@@ -1,0 +1,20 @@
+<h2><p>Biodata Mahasiswa</p></h2>
+
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Username</th>
+        <th scope="col">Nama</th>
+        <th scope="col">Jenis Kelamin</th>
+        <th scope="col">Kota</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Linda</td>
+        <td>Linda Anjany </td>
+        <td>Perempuan</td>
+        <td>Pontianak</td>
+      </tr>
+    </tbody>
+  </table>
